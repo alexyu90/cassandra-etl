@@ -1,4 +1,4 @@
-<p align="center"><img src="images/cass.png" style="height: 20%; width: 20%; max-width: 20px" /></p>
+<p align="center"><img src="images/cass.png" style="height: 100%; width: 100%; max-width: 100px" /></p>
 
 ## Project Overview
 
